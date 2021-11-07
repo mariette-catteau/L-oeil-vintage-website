@@ -1,0 +1,9 @@
+
+.imgblog {
+	width: 68px;
+	height: 68px;
+	margin-left:184px;
+	clip-path: ellipse(50% 50%);
+	object-fit: cover;
+	margin-top: 11px;
+}

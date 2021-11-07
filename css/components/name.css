@@ -1,0 +1,11 @@
+.name {
+	margin-left: 14px;
+	font-size: 24px;
+	color:#02717F;
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	margin-top: 31px;
+	white-space: nowrap;
+	max-width: 100%;
+	width:auto;
+}

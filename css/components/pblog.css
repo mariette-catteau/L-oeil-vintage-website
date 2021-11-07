@@ -1,0 +1,11 @@
+.p {
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	font-size: 18px;
+	display:flex;
+	float: bottom;
+	padding-left: 21px;
+	padding-right: 17px;
+	padding-bottom: 15px;
+	color: white;
+}

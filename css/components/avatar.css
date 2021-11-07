@@ -1,0 +1,10 @@
+.avatar {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	margin-bottom: 100px;
+	float: right;
+    position: relative;
+    padding-right: 5px;
+    margin-top: 10px;
+}

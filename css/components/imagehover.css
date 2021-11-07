@@ -1,0 +1,27 @@
+.imagehover {
+	float:top;
+}
+
+nav ul ul li {width:40%;
+
+}
+nav a {
+	display: inline-block;
+	text-decoration: none;
+}
+nav li:hover .submenu{
+	text-decoration:none;
+	display: inline-block;
+	position: absolute;
+	top:230px;
+	left:68px;
+	
+	padding:0px;
+	z-index: 1000;
+
+
+}
+
+nav li:active > body {
+	
+}
