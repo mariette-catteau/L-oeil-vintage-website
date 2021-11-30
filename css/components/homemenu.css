@@ -1,0 +1,26 @@
+.homemenu {
+	display:none;
+	background-color: white;
+	box-shadow: 1px 1px 10px 1px black;
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	text-decoration:none;
+	color: #02717F;
+
+
+}
+.homemenu ul li {
+	width:10px;
+	height:50px;
+	margin-top: 10px;
+
+}
+
+.homemenu li {
+	float: left;
+
+
+}
+.homemenu:after {
+	
+}
