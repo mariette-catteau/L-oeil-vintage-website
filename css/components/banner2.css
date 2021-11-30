@@ -1,0 +1,28 @@
+.banner2{
+	background-image: linear-gradient(-180deg, rgba(250,250,250,0.6) 5%, rgba(250,250,250,0.5) 60%), url(../../images/bannerbag.jpg);
+	color: white;
+	padding: 40px 0px;
+	background-size: cover;
+	background-position: center;
+	display: middle;
+
+}
+
+.banner2 h1{
+	font-size: 25px;
+	margin-left: 200px;
+}
+
+.banner2 h2{
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.banner2 li{
+	text-align: center;
+	list-style:none;
+}
+
