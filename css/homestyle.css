@@ -1,0 +1,47 @@
+@import url("components/btn-blue1.css");
+@import url("components/submenu.css");
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size : 18px;
+	margin: 0px;
+}
+h1,h2,h3 {
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	text-align: center;
+}
+h4 {
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+h2{
+	color: #02717F;
+}
+
+h5{
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	font-size: 14px;
+	color:gray;
+	text-align: right;
+}
+
+h6{
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 15px;
+	color: #02717F;
+	text-align: center;
+}
+
+p {
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
