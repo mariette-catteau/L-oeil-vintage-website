@@ -28,6 +28,8 @@
 @import url("components/shopping-cart.css");
 @import url("components/filter.css");
 @import url("components/btn-blue2.css");
+@import url("components/homenav.css");
+@import url("components/homebtn.css");
 
 body {
 	font-family: 'Montserrat', sans-serif;
