@@ -17,28 +17,14 @@
     margin: 0 auto;
   }
 
-@media (max-width:  800px) {
-    .container {
-        width: 600px;
-  }
-}
-
-@media (max-width:  700px) {
-    .container {
-        width: 500px;
-  }
-}
-
-@media (max-width:  600px) {
-    .container {
-        width: 400px;
-  }
-}
-
-
-@media (max-width:  500px) {
-    .container {
-        width: 300px;
-  }
-}
-
+/* Large desktop */
+@media (min-width: 1200px) { ... }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { ... }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { ... }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { ... }
