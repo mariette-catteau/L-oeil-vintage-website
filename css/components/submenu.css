@@ -24,3 +24,31 @@
 .submenu:after {
 	
 }
+
+.submenubannerlight {
+	display:none;
+	background-color: white;
+	box-shadow: 1px 1px 10px 1px black;
+	font-family: 'Baskervville', serif;
+	font-weight: lighter;
+	text-decoration:none;
+	color: #02717F;
+
+
+}
+.submenubannerlight ul li {
+	width:100px;
+	height:50px;
+	margin-top: 10px;
+
+}
+
+.submenubannerlight li {
+	float: left;
+
+
+}
+.submenubannerlight:after {
+	
+}
+
