@@ -17,28 +17,4 @@
 	color:#02717F;
 	
 
-	
-@media (max-width:  800px) {
-    .btn-blue  li {
-        width: 600px;
-  }
-}
 
-@media (max-width:  700px) {
-    .btn-blue li {
-        width: 500px;
-  }
-}
-
-@media (max-width:  600px) {
-    .btn-blue li {
-        width: 400px;
-  }
-}
-
-
-@media (max-width:  500px) {
-    .btn-blue li {
-        width: 300px;
-  }
-}
