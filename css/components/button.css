@@ -16,10 +16,4 @@
 	background-color: #DDBEA9;
 	color:#02717F;
 	
-@media all and (max-width:30em){
- a.btn-blue{
-  display:block;
-  margin:0.4em auto;
- }
-}
 
